@@ -34,6 +34,10 @@ footer {
     color: #fff;
     padding: 10px;
 }
+.map {
+    display: flex;
+    justify-content: center;
+}
 
 .img:hover {
     transform: scale(1.2);
